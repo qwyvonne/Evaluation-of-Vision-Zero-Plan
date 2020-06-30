@@ -1,5 +1,8 @@
 # Evaluation-of-Vision-Zero-Plan
 
+**KEYWORDS** <br/>
+GIS, mapping, spatial analysis, death and injury rate, regression model, time series analysis 
+
 **PROBLEM** <br/>
 Evaluate NYC Vision Zero Plan https://www1.nyc.gov/content/visionzero/pages/<br/>
 <br/>
