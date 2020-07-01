@@ -39,10 +39,6 @@ Out of 206 initiatives, three initiatives that are most relevant to cyclists are
 Q1: Do the current 10 priority bicycle districts best represent the areas that need ridership safety attention?<br/>
 Q2: What is the impact of Speed Hump Policy on bicycle fatalities and injuries?<br/>
 Q3: What is the probability that a cyclist gets killed or injured with different initiatives implemented?<br/>
-<br/>
-<p align = 'center'>
-  <img src = "spatial analysis.png" weight = "300" height = "300">
-</p>
 
 <p align = 'center'>
   <img src = "time series.png" weight = "150" height = "150">
@@ -60,3 +56,7 @@ There was a huge increase of cyclists getting injured from 2015 to 2016, which m
 </p>
 
 
+<br/>
+<p align = 'center'>
+  <img src = "spatial analysis.png" weight = "300" height = "300">
+</p>
