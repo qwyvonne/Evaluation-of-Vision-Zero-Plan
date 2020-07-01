@@ -16,7 +16,7 @@ Calculate decrease in number of death and injury; identify seasonal trend; focus
 NYC OPEN DATA https://data.cityofnewyork.us/browse?tags=vzv <br/>
 
 #
-
+## Background 
 Cycling to work in NYC has grown **TWICE faster** as other major cities between 2012 and 2017. On a typical day, there are about 490,000 cycling trips made in New York City. Nearly one quarter of adult New Yorkers ride a bike, which are nearly 1.6 million people. Because of the high demand of cycling trends in nyc, **vision zero plan was created by New York City Mayor Bill de Blasio in 2014. Its purpose is to eliminate fatalities and serious injuries on New York City streets by 2024.**
 
 <img src = "bikernumber.png" weight = "400" height = "400">
@@ -29,9 +29,16 @@ Out of 206 initiatives, three initiatives that are most relevant to cyclists are
 - Arterial Slow Zone<br/>
 - Bike Priority Area<br/>
 <br/>
+
 ###### Speed Humps: a raised area of roadway designed to reduce vehicle speed<br/>
 ###### Arterial Slow Zone: a combination of a lower speed limit, signal timing changes, distinctive signs and increased enforcement<br/>
 ###### Bike Priority Areas: neighborhoods with high numbers of cyclist KSI(Killed or Seriously Injured) and few dedicated bike facilities<br/>
+<br/>
+
+## Research Questions<br/>
+Q1: Do the current 10 priority bicycle districts best represent the areas that need ridership safety attention?
+Q2: What is the impact of Speed Hump Policy on bicycle fatalities and injuries?
+Q3: What is the probability that a cyclist gets killed or injured with different initiatives implemented?  
 
 <p align = 'center'>
   <img src = "cyclist safety map and bike priority district.png" weight = "400" height = "400">
