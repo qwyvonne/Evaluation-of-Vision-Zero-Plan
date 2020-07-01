@@ -36,14 +36,10 @@ Out of 206 initiatives, three initiatives that are most relevant to cyclists are
 <br/>
 
 ## Research Questions<br/>
-Q1: Do the current 10 priority bicycle districts best represent the areas that need ridership safety attention?
-Q2: What is the impact of Speed Hump Policy on bicycle fatalities and injuries?
-Q3: What is the probability that a cyclist gets killed or injured with different initiatives implemented?  
-
-<p align = 'center'>
-  <img src = "cyclist safety map and bike priority district.png" weight = "400" height = "400">
-</p>
-
+Q1: Do the current 10 priority bicycle districts best represent the areas that need ridership safety attention?<br/>
+Q2: What is the impact of Speed Hump Policy on bicycle fatalities and injuries?<br/>
+Q3: What is the probability that a cyclist gets killed or injured with different initiatives implemented?<br/>
+<br/>
 <p align = 'center'>
   <img src = "spatial analysis.png" weight = "300" height = "300">
 </p>
@@ -51,6 +47,16 @@ Q3: What is the probability that a cyclist gets killed or injured with different
 <p align = 'center'>
   <img src = "time series.png" weight = "150" height = "150">
   <img src = "time series seperate.png" weight = "300" height = "300">
+</p>
+
+There was a huge increase of cyclists getting injured from 2015 to 2016, which may seem like the roads have become more dangerous. However, it is not true. It is because the total cyclists population has increased significantly during that period of time because of 2 reasons.<br/>
+1) NYPD started to use an electronic reporting system, which allows NYPD to record more data than before.<br/>
+2) introduction of bike share that encouraged more people cycling. 
+
+
+
+<p align = 'center'>
+  <img src = "cyclist safety map and bike priority district.png" weight = "400" height = "400">
 </p>
 
 
