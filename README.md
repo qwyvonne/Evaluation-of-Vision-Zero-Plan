@@ -45,7 +45,7 @@ Q3: What is the probability that a cyclist gets killed or injured with different
   <img src = "time series seperate.png" weight = "300" height = "300">
 </p>
 <br/>
-###### Observation = Trend + Seasonality + Residual<br/>
+###### Observations = Trend + Seasonality + Residual<br/>
 
 **Trend**<br/>
 There was a huge increase of cyclists getting injured from 2015 to 2016, which may seem like the roads have become more dangerous. However, it is not true. It is because the total cyclists population has increased significantly during that period of time because of 2 reasons.<br/>
@@ -54,7 +54,7 @@ There was a huge increase of cyclists getting injured from 2015 to 2016, which m
 
 Due to data quality concern, we decide to remove 2015 to 2016 data and focus on analysis between 2013 versus 2014 and 2017 versus 2018
 
-**Seasonality **<br/>
+**Seasonality**<br/>
 
 The majority of cyclist injuries and fatalities occurred from March to September of each year<br/>
 
