@@ -98,6 +98,27 @@ Results:<br/>
 
 Conclusion: Suppose that a collision event occurs, **Arterial_Slow_Zones** reduce the chance of a cyclist injured or killed in an car accident.<br/>
 
+## Evaluation of Bike Priority Districts 
+<br/>
+**What districts will be prioritized?**<br/>
+Department of Transportation picked the ten prioritized districts accroding to KSI and bike facilities coverage. Regions with high KSI and low bike facilities coverage rate are given priority when there is plan to build more bike facilities.<br/>
+**Did this initiative work?**<br/>
+**Yes.** <br/>
+From 2017 to 2018, the number of cyclist killed or injured in the ten bike priority districts decreased by 4.6%  which slightly higher than the rest of places.
+We can say that the bike priority district is making the places safer.<br/>
+**Are there any issues?**<br/>
+**Yes.**<br/>
+When we checked the bike map of 2019 provided by department of transportation we found the many prioritized bike districts now have launched plenty of bike facilities. For example in this map, you can see Williamsburg area (marked in red) is covered with all kinds of bike facilities. Such area was needing special attention, but is fine today. However, this information needs to be updated in order to better allocate resouces. <br/>
+
+<p align = 'center'>
+  <img src = "bikefacilityupdate.png" weight = "400" height = "400">
+</p>
+
+**How can we improve this initiative?**
+**Cyclist Safety Map - We need to take care of dangerous places using up-to-date data**
+Cyclist safety map is created using the total number of cyclists injured and killed. Lower east side of Manhattan and Williamsburg area are pretty dangerous. It raised a question that even if there are many facilities designed to protect the bike riders, why the KSI is still so high. Of course the cause can be complicated, but it reminds us that further research is needed in those regions. **Are these bike facilities really helping reduce the fatality and injury rate of the cyclists or unfortunatelly working the opposite way?** In the future, when we build more bike facilities, we want all the bike facilities that we build to reduce the KSI, insteading of working the other way around. 
+
+
 <p align = 'center'>
   <img src = "cyclist safety map and bike priority district.png" weight = "400" height = "400">
 </p>
