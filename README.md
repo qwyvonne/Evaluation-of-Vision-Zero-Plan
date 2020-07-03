@@ -116,6 +116,7 @@ When we checked the bike map of 2019 provided by department of transportation we
 </p>
 
 **How can we improve this initiative?**
+<br/>
 **Cyclist Safety Map - We need to take care of dangerous places using up-to-date data**<br/>
 Cyclist safety map is created using the total number of cyclists injured and killed. Lower east side of Manhattan and Williamsburg area are pretty dangerous. It raised a question that even if there are many facilities designed to protect the bike riders, why the KSI is still so high. Of course the cause can be complicated, but it reminds us that further research is needed in those regions. **Are these bike facilities really helping reduce the fatality and injury rate of the cyclists or unfortunatelly working the opposite way?** In the future, when we build more bike facilities, we want all the bike facilities that we build to reduce the KSI, insteading of working the other way around. 
 
@@ -124,13 +125,12 @@ Cyclist safety map is created using the total number of cyclists injured and kil
   <img src = "cyclist safety map and bike priority district.png" weight = "400" height = "400">
 </p>
 
-## Conclusions and Recommendations
-**Conclusions**
+## Conclusions
 1) There is a seasonality trend in cyclist injuries and fatalities, which is that more incidents happen from March to September.<br/>
 2) The Speed Hump Policy is effective in decreasing cyclists’ fatality and injury rate.<br/>
 3) The Arterial Slow Zones initiative is effective in decreasing cyclists’ fatality and injury rate.<br/>
 4) Based on our Cycling Risk Score, the current 10 priority bicycle districts do not best represent the areas that need ridership safety attention<br/>
-**Recommendations**
+## Recommendations
 1) Install facilities before March to ensure the running of facilities during March to September and increase the number of educational programs during that time period.<br/>
 2) Add more speed humps on A,B,C,D,E, regions where Cycling Risk Score is high. <br/>
 3) Invest more budget on the The Arterial Slow Zones initiative. <br/>
