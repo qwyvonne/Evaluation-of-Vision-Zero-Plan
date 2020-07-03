@@ -90,13 +90,13 @@ Observations: among all collision events, only collision events near or within 7
 Features: time (i.e. year, month, day_of_week, and hour) and whether an event is before/after initiatives (-> False/True) <br/>
 Output: whether the number of cyclists injured or killed is zero or nonzero (-> False/True)<br/>
 
-Result:<br/>
+Results:<br/>
 (1) the probability output of the logistic regression can be interpreted as a conditional probability - given a collision event, how likely the event involves cyclist injured or killed (i.e. non-zero number of cyclists injured or killed).<br/>
 (2) statistically significant (negative): Arterial_Slow_Zones<br/>
 (3) statistically significant (positive): Neighborhood_Slow_Zones, Signal_Timing<br/>
 (4) statistically insignificant: Bike_Priority_Districts, Enhanced_Crossings, Left_Turn_Traffic_Calming, Speed_Humps<br/>
 
-conclusion: Suppose that a collision event occurs, **Arterial_Slow_Zones** reduce the chance of a cyclist injured or killed in an car accident.<br/>
+Conclusion: Suppose that a collision event occurs, **Arterial_Slow_Zones** reduce the chance of a cyclist injured or killed in an car accident.<br/>
 
 <p align = 'center'>
   <img src = "cyclist safety map and bike priority district.png" weight = "400" height = "400">
