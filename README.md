@@ -44,11 +44,19 @@ Q3: What is the probability that a cyclist gets killed or injured with different
   <img src = "time series.png" weight = "150" height = "150">
   <img src = "time series seperate.png" weight = "300" height = "300">
 </p>
+<br/>
+###### Observation = Trend + Seasonality + Residual<br/>
 
+**Trend**<br/>
 There was a huge increase of cyclists getting injured from 2015 to 2016, which may seem like the roads have become more dangerous. However, it is not true. It is because the total cyclists population has increased significantly during that period of time because of 2 reasons.<br/>
 1) NYPD started to use an electronic reporting system, which allows NYPD to record more data than before.<br/>
-2) introduction of bike share that encouraged more people cycling. 
+2) introduction of bike sharing system (Citi Bike) had encouraged more people cycling, and therefore leading to more injury and dead cases. <br/>
 
+Due to data quality concern, we decide to remove 2015 to 2016 data and focus on analysis between 2013 versus 2014 and 2017 versus 2018
+
+**Seasonality **<br/>
+
+The majority of cyclist injuries and fatalities occurred from March to September of each year<br/>
 
 
 <p align = 'center'>
